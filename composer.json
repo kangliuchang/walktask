@@ -1,0 +1,14 @@
+{
+    "name": "lfk/wlaktask",
+    "description": "健走团活动",
+    "keywords": ["lfk", "wlaktask"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "kangliuchang",
+            "email": "584716845@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
