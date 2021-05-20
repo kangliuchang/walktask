@@ -18,7 +18,7 @@ use walktask\Tasks\Walk300Task;
 
 class WalktaskFactory
 {
-123
+
     public static function factory($taskCate)
     {
         switch ($taskCate){
